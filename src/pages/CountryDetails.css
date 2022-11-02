@@ -102,10 +102,6 @@ img {
     padding: 0;
   }
 
-  .country-details-info-right {
-    margin-top: 35px;
-  }
-
   .country-details-info-right div {
     margin-left: 0;
   }
@@ -116,7 +112,7 @@ img {
     color: var(--text-color);
     font-family: var(--font-family);
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 600;
   }
 
   .country-details-info-bottom {
